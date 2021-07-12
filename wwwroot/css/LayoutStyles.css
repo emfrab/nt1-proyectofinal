@@ -1,0 +1,49 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #f7f5fb;
+    background-image: url(https://st3.depositphotos.com/3203593/15404/i/450/depositphotos_154040800-stock-photo-soft-blue-gradient-white-background.jpg)
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+strong {
+    font-family: 'Roboto Mono', monospace;  
+}
+
+label {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+}
+
+a {
+    font-family: 'Inconsolata', monospace;
+}
+
+#ocupada {
+    color: forestgreen;
+}
+
+#noOcupada {
+    color: red;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.informacion{
+    display: flex;
+}
+
+.itemInfo{
+    padding: 10px;     
+}
+
+.incompleto{
+    display: none;
+}
+
